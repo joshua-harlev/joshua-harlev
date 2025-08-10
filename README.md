@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Joshua Harlev and I'm a Software Engineering major at Chapman University.</p>
+<p align="left">My name is Joshua Harlev, a Software Engineering major at Chapman University.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Writing code since 2014<br>🪪 Pronouns: He/Him<br>⚙️ Currently primarily working in: React Native<br>🎲 Other: I love video production and photography!</p>
+<p align="left">✨ Writing code since 2014<br>🪪 Pronouns: They/Them<br>⚙️ Currently primarily working in: React Native<br>🎲 Other: I love video production and photography!</p>
 
 ###
 
@@ -26,6 +26,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
