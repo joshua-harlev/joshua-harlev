@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Writing code since 2014<br>🪪 Pronouns: They/Them<br>⚙️ Currently primarily working in: React Native<br>🎲 Other: I love video production and photography!</p>
+<p align="left">✨ Writing code since 2014<br>🪪 Pronouns: They/Them<br>⚙️ Currently primarily working in: Unity/C#<br>🎲 Other: I love video production and photography!</p>
 
 ###
 
